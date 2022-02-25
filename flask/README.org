@@ -13,3 +13,5 @@ have any look you design but must include the following features:
 - At least one image                                - DONE             
 - At least one form and a route                     - DONE
 - At least one example of using the flask session.  - DONE ( using sessionStorage script in the index page)
+
+Tech tools utilized: MAC OSX, terminal, VS Code, Flask, and Chrome browser. 
