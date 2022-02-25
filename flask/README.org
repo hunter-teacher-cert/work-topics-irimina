@@ -1,1 +1,15 @@
+Assignment:
+Create a flask web app. Your web app can present any data you want and
+have any look you design but must include the following features:
 
+- Multiple routes (at least 2)                      - DONE
+- At least one form that you can submit. Your page should do something
+  when you submit the form - minimally show the data. It is
+  recommended that you do both the GET and POST for the form in the
+  same route.                                       - DONE (login route)
+- Use flask templates with substitutions            - DONE
+- At least some CSS (either written yourself or you can use a library
+  like bootstrap, tailwind etc.).                   - DONE
+- At least one image                                - DONE             
+- At least one form and a route                     - DONE
+- At least one example of using the flask session.  - DONE ( using sessionStorage script in the index page)
