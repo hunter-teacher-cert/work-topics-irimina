@@ -1,0 +1,28 @@
+
+<h1>Login Page</h1>
+
+   {% if name != ""%}
+     <h2> Welcome {{name}}</h2>
+   {% else %}
+     <h2>Please log in </h2>
+   {% endif %}
+
+
+<h2>{{error}}</h2>
+  <form method="POST">
+     Enter your name: 
+      <input name="username">
+       <br>
+         Enter password:
+      <input name="password">
+      <div>
+          <button>SUBMIT</button>
+      </div>
+ </form>
+
+   <a href="/">Go Back to HomePage</a>
+
+   
+
+  </body>
+  <script src="/static/scripts.js"></script>
