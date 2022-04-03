@@ -1,3 +1,5 @@
+Note: click display the source icon in order to have a vertical view
+
 Week 7 async
 
 Task: Convert from numeric into mnemonic code.
